@@ -6,3 +6,8 @@ for i in range(10):
 #222222222222222222222222
 for i in range(10):
     print(i)
+print("Saja77777777777777777777777777")
+
+
+
+print("Ghhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhheeeee")
