@@ -15,7 +15,8 @@ print("Ghhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhheeeee")
 
 
 print("+++++++++++++++++++++++++44444444444444444444444444444444")
-print("+++++++++++++++++++++++++44444444444444444444444444444444")
+print("+++++++++++++++++++++++++4444444444444444" \
+"4444444444444444")
 print("+++++++++++++++++++++++++44444444444444444444444444444444")
 print("+++++++++++++++++++++++++44444444444444444444444444444444")
 for i in range(1000):
@@ -26,3 +27,7 @@ print("Sajalllllllllllllllllllllllllllllllllll")
 
 
 print("new chNGES IN SEENU")
+
+
+
+print("after force ")
