@@ -4,3 +4,8 @@ for i in range(10):
 
 def func():
     pass
+
+
+
+def hello():
+    pass
