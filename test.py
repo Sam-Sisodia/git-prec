@@ -9,3 +9,5 @@ def func():
 
 def hello():
     pass
+def calulate():
+    pass
