@@ -18,3 +18,8 @@ def calulate():
 def newchage():
     return "this is new chages"
 print("15 july code ")
+print("15 july code ")
+
+
+
+print("This is new code after update main")
